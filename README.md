@@ -1,4 +1,4 @@
-# Hi there, I'm Chibuike Asuzu 👋
+# Hi there, I'm Chibuike  👋
 
 <a href="[your-linkedin-profile-url]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
