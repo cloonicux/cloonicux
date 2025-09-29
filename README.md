@@ -1,6 +1,6 @@
 # Hi there, I'm Chibuike  👋
 
-<a href="**[in/chibuike-asuzu-2677401b5]**"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="**in/chibuike-asuzu-2677401b5**"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 I am a highly skilled and innovative Data Analyst and Machine Learning professional with a passion for transforming complex data into valuable business insights. I specialize in building end-to-end data solutions that foster strategic decision-making, enhance profitability, and drive process automation.
 
